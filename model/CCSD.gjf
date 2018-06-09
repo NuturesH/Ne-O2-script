@@ -1,0 +1,8 @@
+%chk=gaussian.chk
+%mem=8GB
+%nproc=20
+# CCSD(T)/6-31g(d) nosymm
+
+Title CCSD(T)
+ 
+0   1

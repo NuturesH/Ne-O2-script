@@ -1,0 +1,8 @@
+%chk=gaussian.chk
+%mem=4GB
+%nproc=3
+# b3lyp/6-31g(d) nosymm iop(3/33=1) pop=(mk,full)
+
+Title B3LPY
+ 
+0   1
